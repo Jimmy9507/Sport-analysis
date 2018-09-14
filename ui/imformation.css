@@ -1,0 +1,11 @@
+#player_Top{
+	-fx-background-image: url("player.jpg");
+}
+
+#team_Top{
+	-fx-background-image: url("Team.jpg");
+}
+
+#coach_Top{
+	-fx-background-image: url("Coach.jpg");
+}

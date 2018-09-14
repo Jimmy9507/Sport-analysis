@@ -1,0 +1,1 @@
+This is one of my school project and also my interest. Using Java to implement this project to analyse some players',teams',seasons' statisitic from different angles.

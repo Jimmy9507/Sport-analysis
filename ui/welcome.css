@@ -1,0 +1,19 @@
+ .root {
+   -fx-background-image: url("welcome01.jpg");
+}
+
+#sign-button{
+   -fx-text-fill: red;
+   -fx-font-size: 20px;
+  /* -fx-background-image: url("anniu.jpg");*/ 
+   -fx-font-family: "Î¢ÈíÑÅºÚ";
+  /* -fx-font-weight: bold;*/ 
+   -fx-background-color: linear-gradient(/* #61a2b1*/#ffffff, #d3d3d3);
+   -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+ 
+}
+
+#sign-button:hover {
+  -fx-background-color: linear-gradient(#d3d3d3,#ffffff/* #61a2b1*/);   }
+
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
